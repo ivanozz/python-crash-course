@@ -1,0 +1,17 @@
+# постоянная сортировка
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+cars.sort()
+print(cars)
+
+# обратный порядок сортировки
+cars.sort(reverse=True)
+
+# временная сортировка
+sorted(cars)
+
+# обратный список
+cars.reverse()
+
+# длина списка 
+len(cars)
+
